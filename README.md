@@ -1,4 +1,6 @@
-Hello, please read this brief intro to the project.
+Pre-interview task I was given for SDET role
+(the original task described in about_the_task.txt)
+
 
        ================== Maze Solver Tool intro ========================
 
